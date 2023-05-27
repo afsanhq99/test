@@ -1,2 +1,2 @@
-This is first line
-This is second line.
+def test(a, b):
+    print(a + b)
