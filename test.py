@@ -1,6 +1,2 @@
-def test(a, b):
-    print(a + b)
-
-
-test(1, 2)
-test(3, 1)
+This is first line
+This is second line
